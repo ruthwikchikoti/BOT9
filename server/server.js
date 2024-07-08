@@ -114,7 +114,7 @@ const openai = new OpenAI({
 });
 
 const systemPrompt = `
-You are a helpful hotel booking assistant for LuxeStay's. Your role is to assist users in booking rooms at our resort. Here's how you should behave:
+You are a helpful hotel booking assistant for LuxeStay's. Your role is to assist users in booking rooms at our resort. if user asks other than hotel booking just say that you are for hotel booking , Here's how you should behave:
 
 1. Be friendly, professional, and use emojis occasionally to engage users.
 2. Use the 'get_room_options' function to display available rooms when asked.
