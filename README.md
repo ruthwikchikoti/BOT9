@@ -1,5 +1,5 @@
 # LuxeStay Booking Assistant
-
+https://drive.google.com/file/d/15insPujHZ4b2ASNNcK5nMHFlQiy1RCVR/view
 ## Project Description
 
 LuxeStay Booking Assistant is a chatbot application designed to help users book rooms at the LuxeStay resort. The project consists of a backend server built with Express.js and a frontend React application. The chatbot uses OpenAI's GPT-3.5-turbo model to provide intelligent responses and assist users throughout the booking process.
