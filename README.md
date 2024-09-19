@@ -34,7 +34,7 @@ LuxeStay Booking Assistant is a chatbot application designed to help users book 
 ## Setup and Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/luxestay-booking-assistant.git
+git clone https://github.com/ruthwikchikoti/BOT9
 cd luxestay-booking-assistant
 
 2. Install dependencies for both backend and frontend:
